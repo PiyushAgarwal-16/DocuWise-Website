@@ -584,7 +584,7 @@ export default function LandingPage() {
           {/* Download CTA Navbar */}
           <div className="hidden md:flex items-center gap-4">
             <a 
-              href="https://downloads.docuwise.in/DocuWiseSetup.exe" 
+              href="https://github.com/PiyushAgarwal-16/DocuWise/archive/refs/tags/Application.zip" 
               className="bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white px-4 py-2 rounded-lg font-semibold text-sm transition shadow-lg shadow-blue-500/20 hover:shadow-blue-500/30 flex items-center gap-1.5 border border-blue-400/20"
             >
               <Download className="w-4 h-4" /> Download Setup
@@ -645,7 +645,7 @@ export default function LandingPage() {
                 FAQ
               </a>
               <a 
-                href="https://downloads.docuwise.in/DocuWiseSetup.exe"
+                href="https://github.com/PiyushAgarwal-16/DocuWise/archive/refs/tags/Application.zip"
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg font-semibold text-center text-sm transition flex items-center justify-center gap-1.5 shadow-lg shadow-blue-500/25"
               >
                 <Download className="w-4 h-4" /> Download for Windows
@@ -680,7 +680,7 @@ export default function LandingPage() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 pt-2">
               <a 
-                href="https://downloads.docuwise.in/DocuWiseSetup.exe" 
+                href="https://github.com/PiyushAgarwal-16/DocuWise/archive/refs/tags/Application.zip" 
                 className="w-full sm:w-auto bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-500 hover:to-blue-600 text-white px-8 py-4 rounded-xl font-bold transition flex items-center justify-center gap-2 shadow-lg shadow-blue-500/35 border border-blue-400/20 hover:scale-[1.02] active:scale-[0.98]"
               >
                 <Download className="w-5 h-5" /> Download for Windows
@@ -1606,7 +1606,7 @@ export default function LandingPage() {
 
             <div className="flex flex-col items-center gap-4 pt-2">
               <a 
-                href="https://downloads.docuwise.in/DocuWiseSetup.exe" 
+                href="https://github.com/PiyushAgarwal-16/DocuWise/archive/refs/tags/Application.zip" 
                 className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-5 rounded-xl font-extrabold text-lg transition flex items-center justify-center gap-2.5 shadow-lg shadow-blue-500/35 border border-blue-400/20 hover:scale-[1.02] active:scale-[0.98]"
               >
                 <Download className="w-5.5 h-5.5" /> Download for Windows
@@ -1771,7 +1771,7 @@ export default function LandingPage() {
               <li><a href="#features" className="hover:text-blue-400 transition">Features</a></li>
               <li><a href="#demo" className="hover:text-blue-400 transition">Demo</a></li>
               <li><a href="#technology" className="hover:text-blue-400 transition">Technology</a></li>
-              <li><a href="https://downloads.docuwise.in/DocuWiseSetup.exe" className="hover:text-blue-400 transition">Download Setup</a></li>
+              <li><a href="https://github.com/PiyushAgarwal-16/DocuWise/archive/refs/tags/Application.zip" className="hover:text-blue-400 transition">Download Setup</a></li>
             </ul>
           </div>
 
